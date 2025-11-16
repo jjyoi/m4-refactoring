@@ -1,3 +1,4 @@
+fb721b1 Task 2.2 done
 db7a720 Task 2.1 done
 c305985 Task 1.2 completed
 ac11574 Task 1.1 completed
